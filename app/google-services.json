@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81933067470",
+    "project_id": "seg2105-project-cycling-app",
+    "storage_bucket": "seg2105-project-cycling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81933067470:android:731a1bfd79895b8ce55c9f",
+        "android_client_info": {
+          "package_name": "com.example.projectcyclingmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI5oD9RydVpRncptVFt4fPcuFAMa2vHkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Project (Cycling Mobile App)</string>
+
+
+    <string-array name="Account_Type_Creation">
+        <item>Event Organizer</item>
+        <item>Participant</item>
+    </string-array>
+
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="username_Creation_hint">Email</string>
+    <string name="password_Creation_hint">Password</string>
+    <string name="Sign_Up">Register</string>
+    <string name="Log_In">Login</string>
+    <string name="No_Account">Don\'t have an Account?</string>
+    <string name="Have_Account">Already have an Account?</string>
+    <string name="Set_Event_Details">Event Details</string>
+    <string name="Edit_Event_Types">Edit Event Types</string>
+    <string name="Event_Type_Entry_Name_Hint">Enter Name of Event Type</string>
+    <string name="Event_Type_Requirements_Hint">Enter the necessary requirements for this Event Type.</string>
+    <string name="Requirements_Instructions">NOTE: Separate requirements with \",\" (no space). For each
+            requirement, provide the type of value it is (integer = i, string = s, float = f, boolean = b),
+            preceded by a \":\".\n For example, \"Duration:i,Pace:s\".</string>
+    <string name="Events_List">EVENTS</string>
+    <string name="Create_Event_Details">Create Event Details</string>
+    <string name="Return">Return</string>
+    <string name="Enter_Event_Details">Enter Specifications for the Requirements Above</string>
+    <string name="Event_Details_Instructions">NOTE: Separate requirements with \",\" (no space).</string>
+    <string name="Create_Edit">Create/Edit</string>
+    <string name="Reading_Requirements_Instructions">NOTE: You must enter specific values for each of the
+        requirements (listed below). You must enter the requirements in the same order as they appear in the list.
+        The \":[letter]\" refers to the type of the requirement (i = enter an integer, s = enter a string, f = float, b = boolean)</string>
+    <string name="Add_Club_Profile">Add Club Profile Information</string>
+    <string name="Club_Profile_Info">Club Profile Information</string>
+    <string name="Social_Media_Hint">Enter social media link here (mandatory)</string>
+    <string name="Profile_Phone_Number">Enter club phone number here (mandatory)</string>
+    <string name="Main_Contact_Name">Enter name of main contact here</string>
+    <string name="Club_Location">Enter location of club here (mandatory)</string>
+    <string name="Log_Out">Log Out</string>
+    <string name="Create">Create</string>
+    <string name="View_Profile">View Club Profile</string>
+    <string name="Create_Edit_Profile">Create/Edit Profile</string>
+    <string name="Not_Now">Not Now</string>
+</resources>

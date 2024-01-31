@@ -1,12 +1,3 @@
-# seg2105f23-project-project_grp_39
-seg2105f23-project-project_grp_39 created by GitHub Classroom
+Android Bicycle App for SEG2105. For now, the respository will be privated due to potential integerity problems.
 
-Group 39 Members:
-
-Brian Tran - 300295622
-
-Ben Gilbert - 300290423
-
-Thomas Tran - 300290320
-
-Dina De Costa - 300313278
+Made by students of uOttawa: Brian, Ben, Dina and Thomas.
